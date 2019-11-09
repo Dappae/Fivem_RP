@@ -3,10 +3,10 @@ FR: Mission de base fixe qui permet de démarrer sur une bonne base. | EN: Fixed
 
 -----------------------------------------------------------------
 
-# Mises à jours / Updates
+# Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
 
 -----------------------------------------------------------------
-`[V0.01]`
+`[V0.1]`
 
 - `FR: Installation du build (1686) | EN: Installation of the build (1686)`
 
@@ -14,8 +14,14 @@ FR: Mission de base fixe qui permet de démarrer sur une bonne base. | EN: Fixed
 
 - `FR: Mise en place du run.bat avec sauvegarde et suppression du cache automatique | EN: Setting up the run.bat with automatic cache backup and deletion`
 
-- `FR: Ajout de la connexion à la base de données | EN: Adding the connection to the database (resources\[sql]\mysql-async)`
+- `FR: Ajout de la connexion à la base de données (resources\[sql]\mysql-async) | EN: Adding the connection to the database (resources\[sql]\mysql-async)`
 
 - `FR: Ajout de la ressource essentialmod (resources\[essential]\essentialmode) | EN: Adding the essentialmod resource (resources\[essential]\essentialmode)`
+
+- `FR: Ajout de la ressource esplugin_mysql (resources\[sql]\plugin_mysql) | EN: Adding the esplugin_mysql resource (resources\[sql]\plugin_mysql)`
+
+- `FR: Ajout de la ressource es_admin (resources\[essential]\es_admin2) | EN: Adding the es_admin resource (resources\[essential]\es_admin2)`
+
+- `FR: Ajout de la ressource es_ui (resources\[essential]\es_ui) | EN: Adding the es_ui resource (resources\[essential]\es_ui)`
 
 -
