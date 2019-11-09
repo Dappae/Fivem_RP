@@ -6,8 +6,8 @@ FR: Mission de base fixe qui permet de démarrer sur une bonne base. | EN: Fixed
 # Mises à jours / Updates
 
 -----------------------------------------------------------------
-
-* [V0.01]
+* [Installation](#installation)
+ [V0.01]
 
 - FR: Installation du build (1686) | EN: Installation of the build (1686)
 
