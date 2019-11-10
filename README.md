@@ -46,6 +46,10 @@
 
 `[V0.2]`
 
+- FR: Ajout de la ressource **esx_billing** `(resources\[esx]\esx_billing)` | EN: Adding the **esx_billing** resource `(resources\[esx]\esx_billing)`
+
+
+
 -----------------------------------------------------------------
 
 # Installation / How to install
