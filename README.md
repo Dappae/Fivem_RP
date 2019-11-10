@@ -50,3 +50,9 @@
 - FR: Télécharger toutes les archives est sélectionner les archives numérotées de 1 à 3, fait clic droit et "Extraire ici". La dernière archive est la base de données il faut juste que vous crée une base de données dans votre `"phpMyAdmin"`, la nommé `"fivem_rp"` et importé le fichier `"fivem_rp.sql"`
 
 - EN: Download all archives is select archives numbered 1 to 3, right click and "Extract here". The last archive is the database you just need to create a database in your `"phpMyAdmin"`, named `"fivem_rp"` and import the file `"fivem_rp.sql"`
+
+-----------------------------------------------------------------
+
+- **FR: Les archives coupées n'étaient pas prévues mais la taille par fichier et très réduite sur Github**
+
+- **EN: The cut archives were not planned but the file size and very small on Github**
