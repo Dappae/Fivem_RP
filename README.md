@@ -51,8 +51,8 @@
 
 - EN: Download all archives is select them, right clicks and "Extract here". The last archive is the database you just need to create a database in your ``"phpMyAdmin"``, name it ``"fivem_rp"`` and import ``"fivem_rp.sql"``. And do not forget to put your "API" in the file ``"server.cfg"`` line 96 & 99.
 
-Steam API: https://steamcommunity.com/dev/apikey
-FiveM API: https://keymaster.fivem.net
+- ``Steam API: https://steamcommunity.com/dev/apikey``
+- ``FiveM API: https://keymaster.fivem.net``
 
 -----------------------------------------------------------------
 
