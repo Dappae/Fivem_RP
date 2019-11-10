@@ -35,3 +35,11 @@
 - FR: Ajout de la ressource **esx_menu_dialog** `(resources\[ui]\esx_menu_dialog)` | EN: Adding the **esx_menu_dialog** resource `(resources\[ui]\esx_menu_dialog)`
 
 - FR: Ajout de la ressource **esx_menu_list** `(resources\[ui]\esx_menu_list)` | EN: Adding the **esx_menu_list** resource `(resources\[ui]\esx_menu_list)`
+
+-----------------------------------------------------------------
+
+# Installation / How to install
+
+-----------------------------------------------------------------
+
+
