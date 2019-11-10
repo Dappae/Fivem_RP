@@ -18,9 +18,9 @@
 
 - FR: Ajout de la connexion à la base de données `(resources\[sql]\mysql-async)` | EN: Adding the connection to the database `(resources\[sql]\mysql-async)`
 
-- FR: Ajout de la ressource essentialmod `(resources\[essential]\essentialmode)` | EN: Adding the essentialmod resource `(resources\[essential]\essentialmode)`
+- FR: Ajout de la ressource **essentialmod** `(resources\[essential]\essentialmode)` | EN: Adding the **essentialmod** resource `(resources\[essential]\essentialmode)`
 
-- FR: Ajout de la ressource esplugin_mysql `(resources\[sql]\plugin_mysql)` | EN: Adding the esplugin_mysql resource `(resources\[sql]\plugin_mysql)`
+- FR: Ajout de la ressource **esplugin_mysql** `(resources\[sql]\plugin_mysql)` | EN: Adding the **esplugin_mysql** resource `(resources\[sql]\plugin_mysql)`
 
 - FR: Ajout de la ressource es_admin `(resources\[essential]\es_admin2)` | EN: Adding the es_admin resource `(resources\[essential]\es_admin2)`
 
