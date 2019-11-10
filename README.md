@@ -13,6 +13,8 @@
 
 - **FR: V0.2 en développement | EN: V0.2 in development**
 
+- *FR: La version téléchargeable est stable la dernière est notée ci-dessus | EN: The downloadable version is stable the last is noted above
+
 -----------------------------------------------------------------
 `[V0.1]`
 
