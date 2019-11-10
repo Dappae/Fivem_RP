@@ -11,7 +11,7 @@
 
 # Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
 
-**FR: V0.2 en développement | EN: V0.2 in development**
+- **FR: V0.2 en développement | EN: V0.2 in development**
 
 -----------------------------------------------------------------
 `[V0.1]`
