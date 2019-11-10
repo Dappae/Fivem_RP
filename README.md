@@ -3,9 +3,13 @@
 
 - EN: Fixed basic mission that allows to start on a good basis. (Some things have been translated into French so sorry in advance to English kisses)
 
+- **FR: J'ai créé la mission au complet hormis les plugins, extension etc. que j'ai juste rajoutée et corrigée pour la mission.** _NacroTV
+
+- **EN: I created the whole mission except the plugins, extension etc. that I just added and corrected for the mission.** _NacroTV
+
 -----------------------------------------------------------------
 
-# Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
+#_ Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
 
 -----------------------------------------------------------------
 `[V0.1]`
