@@ -22,16 +22,16 @@
 
 - FR: Ajout de la ressource **esplugin_mysql** `(resources\[sql]\plugin_mysql)` | EN: Adding the **esplugin_mysql** resource `(resources\[sql]\plugin_mysql)`
 
-- FR: Ajout de la ressource es_admin `(resources\[essential]\es_admin2)` | EN: Adding the es_admin resource `(resources\[essential]\es_admin2)`
+- FR: Ajout de la ressource **es_admin** `(resources\[essential]\es_admin2)` | EN: Adding the **es_admin resource** `(resources\[essential]\es_admin2)`
 
-- FR: Ajout de la ressource es_ui `(resources\[essential]\es_ui)` | EN: Adding the es_ui resource `(resources\[essential]\es_ui)`
+- FR: Ajout de la ressource **es_ui** `(resources\[essential]\es_ui)` | EN: Adding the **es_ui resource** `(resources\[essential]\es_ui)`
 
-- FR: Ajout de la ressource es_extended `(resources\[essential]\es_extended)` | EN: Adding the es_extended resource `(resources\[essential]\es_extended)`
+- FR: Ajout de la ressource **es_extended** `(resources\[essential]\es_extended)` | EN: Adding the **es_extended** resource `(resources\[essential]\es_extended)`
 
-- FR: Ajout de la ressource async `(resources\[sql]\async)` | EN: Adding the async resource `(resources\[sql]\async)`
+- FR: Ajout de la ressource **async `(resources\[sql]\async)` | EN: Adding the async resource `(resources\[sql]\async)`
 
-- FR: Ajout de la ressource esx_menu_default `(resources\[ui]\esx_menu_default)` | EN: Adding the esx_menu_default resource `(resources\[ui]\esx_menu_default)`
+- FR: Ajout de la ressource **esx_menu_default** `(resources\[ui]\esx_menu_default)` | EN: Adding the **esx_menu_default** resource `(resources\[ui]\esx_menu_default)`
 
-- FR: Ajout de la ressource esx_menu_dialog `(resources\[ui]\esx_menu_dialog)` | EN: Adding the esx_menu_dialog resource `(resources\[ui]\esx_menu_dialog)`
+- FR: Ajout de la ressource **esx_menu_dialog** `(resources\[ui]\esx_menu_dialog)` | EN: Adding the **esx_menu_dialog** resource `(resources\[ui]\esx_menu_dialog)`
 
-- FR: Ajout de la ressource esx_menu_list `(resources\[ui]\esx_menu_list)` | EN: Adding the esx_menu_list resource `(resources\[ui]\esx_menu_list)`
+- FR: Ajout de la ressource **esx_menu_list** `(resources\[ui]\esx_menu_list)` | EN: Adding the **esx_menu_list** resource `(resources\[ui]\esx_menu_list)`
