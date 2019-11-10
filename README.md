@@ -22,7 +22,7 @@
 
 - FR: Ajout de la ressource esplugin_mysql `(resources\[sql]\plugin_mysql)` | EN: Adding the esplugin_mysql resource `(resources\[sql]\plugin_mysql)`
 
-- FR: Ajout de la ressource es_admin `(resources\[essential]\es_admin2)` | EN: Adding the es_admin resource `(resources\[essential]\es_admin2)`
+- FR: Ajout de la ressource es_admin `(resources\[essential]\es_admin2)` | EN: Adding the es_admin resource `(resources\[essential]\es_admin2)°`
 
 - FR: Ajout de la ressource es_ui `(resources\[essential]\es_ui)` | EN: Adding the es_ui resource `(resources\[essential]\es_ui)`
 
