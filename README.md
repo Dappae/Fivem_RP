@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------------
 
-#_ Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
+# Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
 
 -----------------------------------------------------------------
 `[V0.1]`
