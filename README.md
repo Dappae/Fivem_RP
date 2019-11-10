@@ -50,9 +50,11 @@
 
 `[V0.2]`
 
+- FR: Ajout de la ressource **nb_menuperso** `(resources\[essential]\nb_menuperso)` | EN: Adding the **nb_menuperso** resource `(resources\[essential]\nb_menuperso)`
+
 - FR: Ajout de la ressource **esx_billing** `(resources\[esx]\esx_billing)` | EN: Adding the **esx_billing** resource `(resources\[esx]\esx_billing)`
 
-
+- FR: Ajout de la ressource **garfield_pausemenu** `(resources\[ui]\esx_pausemenu)` | EN: Adding the **garfield_pausemenu** resource `(resources\[ui]\esx_pausemenu)` *J'ai modifier le nom du fichier pour un meilleur listing, l'auteur à été cité dans les fichiers*
 
 -----------------------------------------------------------------
 
