@@ -9,7 +9,9 @@
 
 -----------------------------------------------------------------
 
-# Mises à jours / Updates | Status [Last version: V0.1]: STABLE!
+# Mises à jours / Updates | Status [Last version: V0.1]: STABLE!.
+
+- **FR: V0.1 est disponible en téléchargement. Status: Stable | EN: V0.1 V0.1 is available for download. Status: Stable**
 
 - **FR: V0.2 en développement | EN: V0.2 in development**
 
