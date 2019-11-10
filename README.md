@@ -53,6 +53,6 @@
 
 -----------------------------------------------------------------
 
-- **FR: Les archives coupées n'étaient pas prévues mais la taille par fichier et très réduite sur Github**
+- **FR: Les archives coupées n'étaient pas prévues mais la taille par fichier et très réduite sur Github.**
 
-- **EN: The cut archives were not planned but the file size and very small on Github**
+- **EN: The cut archives were not planned but the file size and very small on Github.**
