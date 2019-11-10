@@ -32,7 +32,7 @@
 
 - FR: Ajout de la ressource **es_extended** `(resources\[essential]\es_extended)` | EN: Adding the **es_extended** resource `(resources\[essential]\es_extended)`
 
-- FR: Ajout de la ressource **async `(resources\[sql]\async)` | EN: Adding the async resource `(resources\[sql]\async)`
+- FR: Ajout de la ressource **async** `(resources\[sql]\async)` | EN: Adding the **async** resource `(resources\[sql]\async)`
 
 - FR: Ajout de la ressource **esx_menu_default** `(resources\[ui]\esx_menu_default)` | EN: Adding the **esx_menu_default** resource `(resources\[ui]\esx_menu_default)`
 
