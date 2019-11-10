@@ -1,5 +1,7 @@
 # Fivem_RP
-FR: Mission de base fixe qui permet de démarrer sur une bonne base. | EN: Fixed basic mission that allows to start on a good basis.
+- FR: Mission de base fixe qui permet de démarrer sur une bonne base. (Certaines choses ont été traduites en français donc désolé d'avance aux anglais bisous)
+
+- EN: Fixed basic mission that allows to start on a good basis. (Some things have been translated into French so sorry in advance to English kisses)
 
 -----------------------------------------------------------------
 
@@ -22,6 +24,6 @@ FR: Mission de base fixe qui permet de démarrer sur une bonne base. | EN: Fixed
 
 - FR: Ajout de la ressource es_admin `(resources\[essential]\es_admin2)` | EN: Adding the es_admin resource `(resources\[essential]\es_admin2)`
 
-- FR: Ajout de la ressource es_ui (resources\[essential]\es_ui) | EN: Adding the es_ui resource `(resources\[essential]\es_ui)`
+- FR: Ajout de la ressource es_ui `(resources\[essential]\es_ui)` | EN: Adding the es_ui resource `(resources\[essential]\es_ui)`
 
 -
